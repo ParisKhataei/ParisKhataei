@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parisa Khataei
 - 👀 I’m interested in Designing Web and Mobile applications
-- 🌱 I’m currently learning HTML?CSS , Javascript and UI/UX
+- 🌱 I’m currently learning HTML/CSS , Javascript and UI/UX
 - 💞️ I’m looking to collaborate other Master Designer and Developer 
 - 📫 My Contact information: 
      - Email Address: khataeipariAsa@gmail.com
